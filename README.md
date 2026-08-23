@@ -12,7 +12,7 @@
 
 ## Assignments
 
-###Assignments 1
+### Assignments 1
 
 ### Assignment #1
 
