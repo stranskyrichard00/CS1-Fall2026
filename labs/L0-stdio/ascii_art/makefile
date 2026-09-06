@@ -1,0 +1,35 @@
+# compiler name
+CXX = g++
+# g++ compiler flags
+# -c: compile only, do not link
+# -g: adds debugging information to the executable file
+# -Wall: turns on most, but not  all, compiler warnings
+# -std=c++17: uses c++17 standard
+# put all the required flags separated by space
+CXXFLAGS = -c -g -Wall -std=c++17
+
+# the build target executable file; .exe is not required
+PROGRAM = stdio.exe #FIXME
+
+# list .cpp files separated by space
+CPPFILES = main.cpp util.cpp #FIXME
+
+# make all rule/default rule that'll be run when we run "make"
+# first compile each file to object file
+# then make a single binary/executable program
+
+#.PHONY: all build clean run
+
+all: build run clean
+
+build:
+	$(CXX) $(XXFLAGS) $(CPPFILES)
+	$(CXX) -o $(PROGRAM) *.o
+
+clean:
+	rm -f $(PROGRAM) *.o
+
+run:
+	./$(PROGRAM)
+
+
