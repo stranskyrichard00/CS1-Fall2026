@@ -36,4 +36,14 @@
 | Status      | Complete                                                                        |
 | Self Grade  | 100/100                                                                         |
 | Notes       | Updated all the fixes!                                                          |
+
+### Echo Echo Echo
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Echo Echo Echo                                                                  |
+| Description | Input and output with long outputs!                                             |
+| Due Date    | 05-Sep-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
 | Notes       | Updated all the fixes!                                                          |
