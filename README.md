@@ -23,6 +23,7 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | completed the solution                                                          |
 
+
 ## Labs
 
 ### Ascii_Art
@@ -34,4 +35,5 @@
 | Due Date    | 05-Sep-2026                                                                     |
 | Status      | Complete                                                                        |
 | Self Grade  | 100/100                                                                         |
+| Notes       | Updated all the fixes!                                                          |
 | Notes       | Updated all the fixes!                                                          |
