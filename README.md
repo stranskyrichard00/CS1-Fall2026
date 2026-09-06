@@ -22,3 +22,16 @@
 | Status      | Complete                                                                        |
 | Self Grade  | 100/100                                                                         |
 | Notes       | completed the solution                                                          |
+
+## Labs
+
+### Ascii_Art
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Ascii_Art                                                                       |
+| Description | Input and output with Tom and Jerry!                                            |
+| Due Date    | 05-Sep-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Updated all the fixes!                                                          |
