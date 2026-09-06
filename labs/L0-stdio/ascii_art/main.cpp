@@ -42,16 +42,18 @@ int main()
     // FIXME2: prompt to enter programer's name and store the entered data into the declared variable
     cout << "Enter your name: ";
     getline(cin, programmer_name);
+    //#Fixed#
 
     // FIXME3: prompt user to enter course name (e.g., CSCI 111) and store the data into a declared variable
     string course_name;
     cout << "Enter course name: ";
     getline(cin, course_name);
-
+    //#Fixed#
     // FIXME4: prompt user to enter semester info (e.g., Fall 2022) and store the data into a declared variable
     string semester_information;
     cout << "Enter the semester for the class: ";
     getline(cin, semester_information);
+    //#Fixed#
 
     // Body for Tom and Jerry
     const string tom1 = "|\\_/|";
@@ -88,12 +90,12 @@ int main()
 
     cout << tom_line3 << "*" << info_line3 << "*" << jerry_line3 << endl;
 
-    // FIXME6: Create and print the 4th line of the ASCII art
+    // FIXME6: Create and print the 4th line of the ASCII art #Fixed#
     string tom_line4 = center_text(tom_width, tom4);
     string info_line4 = center_text(middle_width - 2, course_name + " " + semester_information);
 
     cout << tom_line4 << "*" << info_line4 << "*" << endl;
-    // FIXME7: Create and print the 5th line of the ASCII art
+    // FIXME7: Create and print the 5th line of the ASCII art #Fixed#
     string tom_line5 = center_text(tom_width, tom5);
     string info_line5 = center_text(middle_width -2, asterics);
     
