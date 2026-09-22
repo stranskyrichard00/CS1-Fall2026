@@ -23,7 +23,7 @@ CPPFILES = main.cpp util.cpp #FIXME
 all: build run clean
 
 build:
-	$(CXX) $(XXFLAGS) $(CPPFILES)
+	$(CXX) $(CXXFLAGS) $(CPPFILES)
 	$(CXX) -o $(PROGRAM) *.o
 
 clean:
