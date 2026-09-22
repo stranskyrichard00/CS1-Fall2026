@@ -13,7 +13,7 @@ CXXFLAGS = -c -g -Wall -std=c++17
 PROGRAM = twosum.exe
 
 # list all .cpp files separated by space
-CPPFILES = twosum.cpp
+CPPFILES = src/twosum.cpp
 
 # make all rule/default rule that'll be run when we run "make"
 # first compile each file to object file

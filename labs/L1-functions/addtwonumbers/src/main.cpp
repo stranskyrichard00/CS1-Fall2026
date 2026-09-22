@@ -6,7 +6,7 @@ Steps to Algorithm:
     Defining functions should be done outside of int main()
 */
 #include <iostream>
-#include "../headers/header.hpp"
+#include "header.hpp"
 //can only include header files and never .cpp files
 
 #include <string>
