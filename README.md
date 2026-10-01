@@ -80,3 +80,26 @@
 | Status      | Complete                                                                        |
 | Self Grade  | 100/100                                                                         |
 | Notes       | Updated all the fixes!                                                          |
+
+### pointers
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | pointers                                                                        |
+| Description | Namespace, Enum and Unittest                                                    |
+| Due Date    | 30-Sep-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Updated all the fixes!                                                          |
+
+### namespaces
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | namespace                                                                       |
+| Description | Namespace, Enum and Unittest                                                    |
+| Due Date    | 30-Sep-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Updated all the fixes!                                                          |
+
