@@ -35,6 +35,18 @@
 | Notes       | completed the solution                                                          |
 
 
+### Assignment A2-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | A2-README                                                                       |
+| Description | Namespace and Enumerations Galore                                               |
+| Due Date    | 02-Oct-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | completed the solution                                                          |
+
+
 ## Labs
 
 ### Ascii_Art
