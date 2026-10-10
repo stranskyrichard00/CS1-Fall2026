@@ -115,3 +115,15 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | Updated all the fixes!                                                          |
 
+### Menu
+
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Menu                                                                            |
+| Description | Using conditionals and functions!                                               |
+| Due Date    | 09-Oct-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Updated all the fixes!                                                          |
+
