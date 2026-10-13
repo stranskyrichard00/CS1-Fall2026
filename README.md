@@ -46,6 +46,17 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | completed the solution                                                          |
 
+### Assignment A3-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | A3-README                                                                       |
+| Description | Conditionals and loops Galore!                                                  |
+| Due Date    | 12-Oct-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | completed the solution                                                          |
+
 
 ## Labs
 
