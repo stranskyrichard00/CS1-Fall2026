@@ -138,3 +138,14 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | Updated all the fixes!                                                          |
 
+### L4-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Menu                                                                            |
+| Description | Using strings                                                                   |
+| Due Date    | 23-Oct-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Solved the Kattis Problems!!                                                    |
+
