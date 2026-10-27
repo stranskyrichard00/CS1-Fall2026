@@ -57,6 +57,17 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | completed the solution                                                          |
 
+### Assignment A4-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | A3-README                                                                       |
+| Description | Strings to arrraayyyss Galore!                                                  |
+| Due Date    | 26-Oct-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | completed the solution                                                          |
+
 
 ## Labs
 
