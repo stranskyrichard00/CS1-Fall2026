@@ -160,3 +160,14 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | Solved the Kattis Problems!!                                                    |
 
+
+### L5-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Menu                                                                            |
+| Description | Arrays                                                                          |
+| Due Date    | 30-Oct-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Solved the Arrayysss                                                            |
