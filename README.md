@@ -189,7 +189,7 @@
 | :---------- | :------------------------------------------------------------------------------ |
 | Name        | Menu                                                                            |
 | Description | Structs                                                                         |
-| Due Date    | 6-Nov-2026                                                                     |
+| Due Date    | 6-Nov-2026                                                                      |
 | Status      | Complete                                                                        |
 | Self Grade  | 100/100                                                                         |
-| Notes       | Solved the Arrayysss                                                            |
+| Notes       | Solved the Problemsss                                                           |
