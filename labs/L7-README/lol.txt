@@ -1,0 +1,6 @@
+Count: 10
+Numbers: 12 -5 8 20 0 15 -10 7 3 10
+Maximum: 20
+Minimum: -10
+Sum: 60
+Average: 6.00
