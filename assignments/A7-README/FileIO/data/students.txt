@@ -1,0 +1,6 @@
+John Smith 100 95 85 92
+Jane Doe 85 89 99 95
+Jill Jones 56 89 99 80
+Alex Brown 70 75 80 75
+Sam Wilson 60 65 70 65
+Lee Davis 40 50 55 55
