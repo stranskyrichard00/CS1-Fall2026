@@ -216,3 +216,14 @@
 | Status      | Complete                                                                        |
 | Self Grade  | 100/100                                                                         |
 | Notes       | Solved the Problemsss                                                           |
+
+### L7-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Menu                                                                            |
+| Description | Vectorsss                                                                       |
+| Due Date    | 20-Nov-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | Solved the Problemsss                                                           |
