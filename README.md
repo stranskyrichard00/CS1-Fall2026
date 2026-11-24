@@ -90,6 +90,27 @@
 | Self Grade  | 100/100                                                                         |
 | Notes       | completed the solution                                                          |
 
+### Assignment A7-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | A6-README                                                                       |
+| Description | FileIOOOOO                                                                      |
+| Due Date    | 11-Nov-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | completed the solution                                                          |
+
+### Assignment A6-README
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | A6-README                                                                       |
+| Description | Vector!!!!!!!!!!!                                                               |
+| Due Date    | 11-Nov-2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                         |
+| Notes       | completed the solution                                                          |
 
 
 ## Labs
